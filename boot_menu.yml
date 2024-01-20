@@ -1,0 +1,5 @@
+ublue_variants:
+  - label: claudio-es-andrade/mymultimedia
+    ks: /kickstart/ublue-os.ks
+    flavors:
+      - label: mymultimedia
